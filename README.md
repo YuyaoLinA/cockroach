@@ -75,7 +75,7 @@ Use freely for research, education, or experimental design work. Attribution app
 
 ## 📷 Preview
 
-> Images of the prototype, structural states, and fluid boundary representations are available in the project repository or accompanying documentation.
+![Prototype](images/Pic1.png)
 
 ---
 
